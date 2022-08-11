@@ -1,0 +1,45 @@
+.container{
+  width: 90%; 
+  margin: 0 auto; 
+}
+
+.page-header{
+  background: #111; 
+  text-align: center;
+  color: #fff; 
+  font-size: 20px; 
+  padding: 1rem 0; 
+}
+
+.add{
+  margin-top : 30px; 
+  margin: 1rem 0; 
+}
+
+.users{
+  width: 800px !important; 
+  position: relative; 
+  left: 50%; 
+  margin-top: 4rem; 
+  transform: translateX(-50%);
+}
+
+
+.adduser-form{
+  margin-top: 4rem; 
+  width: 600px; 
+  position: relative; 
+  left: 50%; 
+  transform: translate(-50%, -0);
+}
+
+.add-user-form{
+  border: 1px solid rgb(216, 213, 213); 
+  border-radius: 10px;
+  padding: 2rem; 
+}
+
+.required-filed{
+  color: red; 
+  font-weight: bold; 
+}
